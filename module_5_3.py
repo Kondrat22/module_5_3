@@ -45,11 +45,6 @@ class House:
         return self + other
 
 
-def main():
-    h1 = House('ЖК Эльбрус', 10)
-    h2 = House('ЖК Акация', 20)
-
-
 h1 = House('ЖК Эльбрус', 10)
 h2 = House('ЖК Акация', 20)
 
